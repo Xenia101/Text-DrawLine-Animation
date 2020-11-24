@@ -1,5 +1,7 @@
 # Text DrawLine Animation
 
+HTML + CSS Text Draw Animation [PROJECT SILLOCK](https://github.com/byobl)
+
 ## Style-1
 
 <p align=center>
