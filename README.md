@@ -26,12 +26,12 @@
 
 4. TEXT를 넣고 원하는 폰트를 지정해줍시다
     <p align=center>
-        <img src="images/figma/4.PNG">
+        <img src="images/figma/4.png">
     </p>
 
 5. 텍스트에 우측 클릭 → Outline Stroke
     <p align=center>
-        <img src="images/figma/5.PNG">
+        <img src="images/figma/5.png">
     </p>
 
 6. 우측 Design에서 Fill 부분을 삭제(-)한 후, Stroke(**Center**, 색, 굵기)를 추가해줍니다
@@ -45,7 +45,7 @@
 
 7. 텍스트 우측 클릭 → Copy/Paste → Copy as SVG
     <p align=center>
-        <img src="images/figma/7.PNG">
+        <img src="images/figma/7.png">
     </p>
 
     ```html
